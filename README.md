@@ -1,11 +1,12 @@
 # Sentinel Data Hub
 
-###*Author: Daniel García
+###*Author:* Daniel García
 
-###*Contents:
+###*Contents:*
 
-⋅⋅*Code: code
-⋅⋅*imgs: Images obtained with the code. Example
+####*Code:* code.
+
+####*imgs:* Images obtained with the code. Example
 
 Description: Functions to treat the Sentinel files of the ESA and obtain; images of a band, RGB images by composition of 3 bands, or vegetation indices
 
